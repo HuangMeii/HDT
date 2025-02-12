@@ -39,6 +39,7 @@
     <Compile Include="Bai1\NhanVien.cs" />
     <Compile Include="Bai2\PhanSo.cs" />
     <Compile Include="Bai4\HinhTron.cs" />
+    <Compile Include="Bai6\QL-Sach.cs" />
     <Compile Include="BaiTap4-17b\Controller.cs" />
     <Compile Include="BaiTap4-17b\Desktop.cs" />
     <Compile Include="BaiTap4-17b\Invoice.cs" />
